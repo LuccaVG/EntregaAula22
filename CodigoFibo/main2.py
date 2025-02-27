@@ -1,5 +1,5 @@
-from operacoes import soma, subtracao, multiplicacao, divisao
-from utils import exibir_resultado
+from minhasoperacoes.operacoes2 import soma, subtracao, multiplicacao, divisao
+from minhasoperacoes.utils2 import exibir_resultado
 
 def main():
     operacoes = {
